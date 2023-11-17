@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maruthi1225
+- 👋 Hi, I’m Banoth Maruthi 
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to get hired in a muiltnational company as a software engineer
