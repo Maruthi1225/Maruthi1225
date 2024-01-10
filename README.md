@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Banoth Maruthi 
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning java and python
-- 💞️ I’m looking to get hired in a muiltnational company as a software engineer
+- 👀 I’m interested in Android APP development
+- 🌱 I’m currently learning Kotlin, java and python
+- 💞️ I’m looking to get hired in a muiltnational company as a APP Developer
 - 📫 mail id : maruthi.nayak12345@gmail.com
 
 <!---
